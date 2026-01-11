@@ -69,5 +69,5 @@ Also I'd recommend only mass pinging till the server reaches to 3k pings. Any mo
 ## Contact Me
 
 ﹒[Discord.user](class.access#0 or nubprogrammer#0)
-﹒[Discord Server](https://discord.gg/YNMJ2sATV6)
+﹒[Discord Server](https://dsc.gg/axoninnova)
 .[youtube](https://www.youtube.com/@nubprogrammer26/featured)
