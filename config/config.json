@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "prefix": "!",
-    "userID": "",
-    "disableEveryone": true
+    "token": "", //put your token here
+    "prefix": "!", // put ur desired prefix here
+    "userID": "", // put the userid that will authenticate to admin and this id will be able to use the commands ( yes multiples are allowed i tried it with heimer ;p)
+    "disableEveryone": true // disable is tuue then only u can use it if fase anyone in the server can execute the command regardless of the ids provided above
 }

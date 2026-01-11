@@ -1,6 +1,6 @@
 #  Presser: < spark.codez x 7teen >
 
-
+The another file which is read only demonstrates a safe example pls ignore it, it was made during the early days of the project from which the inspiration of the code was taken.
 
 ## Features:
 1. `Mass Create Channels`
@@ -69,5 +69,5 @@ Also I'd recommend only mass pinging till the server reaches to 3k pings. Any mo
 ## Contact Me
 
 ﹒[Discord.user](class.access#0 or nubprogrammer#0)
-﹒[Discord Server](https://discord.gg/YNMJ2sATV6)
+﹒[Discord Server](https://dsc.gg/axoninnova)
 .[youtube](https://www.youtube.com/@nubprogrammer26/featured)
